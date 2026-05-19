@@ -3,7 +3,7 @@
 An AI-powered customer support agent built on Amazon Bedrock AgentCore.
 Answers product and return policy questions using tool-calling with Claude Sonnet.
 
-![Agent demo](assets/demo.png)
+![Agent demo](assets/Demo1.png)
 
 ## What it does
 - Looks up product information using AI tool calling
